@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
