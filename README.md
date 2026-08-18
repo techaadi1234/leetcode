@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0042-trapping-rain-water](https://github.com/techaadi1234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
