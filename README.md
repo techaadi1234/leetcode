@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -89,4 +90,16 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/techaadi1234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
