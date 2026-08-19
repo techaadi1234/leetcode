@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
