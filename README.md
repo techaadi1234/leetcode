@@ -14,11 +14,13 @@
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/techaadi1234/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/techaadi1234/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
+| [1248-count-number-of-nice-subarrays](https://github.com/techaadi1234/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/techaadi1234/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,10 +106,12 @@
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/techaadi1234/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/techaadi1234/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/techaadi1234/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
