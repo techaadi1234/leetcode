@@ -68,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/techaadi1234/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +107,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/techaadi1234/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/techaadi1234/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -120,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/techaadi1234/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/techaadi1234/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
