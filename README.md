@@ -60,6 +60,7 @@
 | [0155-min-stack](https://github.com/techaadi1234/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/techaadi1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/techaadi1234/leetcode/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/techaadi1234/leetcode/tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/techaadi1234/leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/techaadi1234/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techaadi1234/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/techaadi1234/leetcode/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/techaadi1234/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/techaadi1234/leetcode/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
