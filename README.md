@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/techaadi1234/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/techaadi1234/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/techaadi1234/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/techaadi1234/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/techaadi1234/leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
