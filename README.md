@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/techaadi1234/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techaadi1234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/techaadi1234/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/techaadi1234/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -186,6 +188,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/techaadi1234/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/techaadi1234/leetcode/tree/master/0860-lemonade-change) |
 ## Bracket Sequences
