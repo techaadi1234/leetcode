@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/techaadi1234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/techaadi1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/techaadi1234/leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techaadi1234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
 | [0435-non-overlapping-intervals](https://github.com/techaadi1234/leetcode/tree/master/0435-non-overlapping-intervals) |
