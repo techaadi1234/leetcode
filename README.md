@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/techaadi1234/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/techaadi1234/leetcode/tree/master/0204-count-primes) |
+| [0435-non-overlapping-intervals](https://github.com/techaadi1234/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/techaadi1234/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/techaadi1234/leetcode/tree/master/0860-lemonade-change) |
@@ -102,6 +103,7 @@
 | [0042-trapping-rain-water](https://github.com/techaadi1234/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/techaadi1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/techaadi1234/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/techaadi1234/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/techaadi1234/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -187,11 +189,13 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/techaadi1234/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/techaadi1234/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/techaadi1234/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/techaadi1234/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/techaadi1234/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/techaadi1234/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/techaadi1234/leetcode/tree/master/0860-lemonade-change) |
 ## Bracket Sequences
