@@ -198,11 +198,13 @@
 | [0222-count-complete-tree-nodes](https://github.com/techaadi1234/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/techaadi1234/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/techaadi1234/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -219,6 +221,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/techaadi1234/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/techaadi1234/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Data Stream
