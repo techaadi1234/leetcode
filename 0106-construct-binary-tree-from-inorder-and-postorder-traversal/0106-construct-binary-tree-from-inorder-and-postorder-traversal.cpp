@@ -27,6 +27,6 @@ public:
     TreeNode* buildTree( vector<int>& inorder,vector<int>& postorder) {
         unordered_map<int,int>im ;
         for(int i=0;i<inorder.size();i++)im[inorder[i]]=i;
-        return build(inorder,0, inorder.size()-1,postorder,0,postorder.size()-1,im);
+        return build(inorder,0, inorder.size(),postorder,0,postorder.size()-1,im);
     }
 };
