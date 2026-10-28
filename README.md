@@ -60,6 +60,7 @@
 | [0085-maximal-rectangle](https://github.com/techaadi1234/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/techaadi1234/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/techaadi1234/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/techaadi1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/techaadi1234/leetcode/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/techaadi1234/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/techaadi1234/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/techaadi1234/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/techaadi1234/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -197,6 +199,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/techaadi1234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/techaadi1234/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/techaadi1234/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/techaadi1234/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -210,6 +213,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/techaadi1234/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -226,6 +230,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/techaadi1234/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/techaadi1234/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/techaadi1234/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/techaadi1234/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -302,4 +307,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/techaadi1234/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/techaadi1234/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/techaadi1234/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
